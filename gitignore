@@ -1,0 +1,79 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# PyTorch
+*.pth
+*.pt
+*.ckpt
+checkpoints/
+lightning_logs/
+
+# Weights & Biases
+wandb/
+
+# Model checkpoints and outputs
+ab_stage1/
+ab_stage2/
+snapshot_ga/
+outputs/
+results/
+logs/
+
+# Data
+data/
+datasets/
+*.csv
+*.tsv
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Accelerate config (if contains sensitive info)
+# accelerate_config.yaml
+
+# Large files
+*.zip
+*.tar.gz
+*.hdf5
+*.h5
+
+# Cache
+.cache/
+*.cache
