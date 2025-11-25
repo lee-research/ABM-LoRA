@@ -1,6 +1,6 @@
 # ABM-LoRA: Activation Boundary Matching for Fast Convergence in Low-Rank Adaptation
 
-[![arXiv](https://img.shields.io/badge/arXiv-2411.XXXXX-b31b1b.svg)](https://arxiv.org/abs/2411.XXXXX)
+[![arXiv](https://img.shields.io/badge/arXiv-2511.19145-b31b1b.svg)](https://arxiv.org/abs/2511.19145)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
